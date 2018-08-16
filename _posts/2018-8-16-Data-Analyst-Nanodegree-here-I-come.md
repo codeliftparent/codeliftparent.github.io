@@ -1,7 +1,10 @@
 ---
 layout: post
-title: I signed up for the Udacity Data Analyst Nanodegree Program and you won't believe what happened next ;-)
+title: I joined the Udacity Data Analyst Nanodegree Program
+published: true
 ---
+![DAND.jpg]({{site.baseurl}}/_posts/DAND.jpg)
 
-On this github.io blog I am going to document my learners journey up until and possibly beyond my graduation from the DAND program.
-Stay tuned!
+The program started on 14 August 2018 and I am very excited to dive deeply into upgrading my programming, visualisation and analytical skills. I am also looking forward to networking with my highly motivated classmates, mentors, and instructors. 
+
+
