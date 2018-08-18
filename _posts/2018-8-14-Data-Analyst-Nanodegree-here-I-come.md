@@ -13,6 +13,6 @@ There are numerous reputable providers of data analysis and data science instruc
 
 * The courses focus on project based learning which is essential to data science training according to many of the prominent data scientists out there that share their wisdom on social media and LinkedIn.
 * Part of Udacity's mission is to teach on the forefront of technology and to strive for up-to-the-minute relevance of their content. An absolute necessity in the rapidly evolving field of data analytics.
-* Courses are designed in collaboration with industry leaders. If you want your training to make you "job-ready" this is essential.
+* Courses are designed in collaboration with industry leaders. If you want your training to make you truly "job-ready", this is essential.
 * The projects you submit during the nanodegree are reviewed by experts who give you concise feedback and guide you through the process of improving your work until it's production level quality.
-* The Udacity nanodegree is a great great experience. Onboarding, instruction, projects, mentoring, career portal, etc... everything fits perfectly together and you feel supported at all times.
+* The Udacity nanodegree is a great experience. Onboarding, instruction, projects, mentoring, career portal, etc... everything fits perfectly together and you feel supported at all times.
