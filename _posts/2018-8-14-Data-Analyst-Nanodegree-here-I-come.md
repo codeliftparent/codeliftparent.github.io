@@ -5,7 +5,7 @@ published: true
 ---
 ![]({{site.baseurl}}/codeliftparent.github.io/images/nanodegree_pic.png)
 
-Today is my first day in Udacity's Data Analyst Nanodegree Program and I am very excited to dive deeply into upgrading my programming, visualisation, and analytical skills. I am also looking forward to networking with my highly motivated classmates, mentors, and instructors.
+Today is my first day in Udacity's Data Analyst Nanodegree program and I am very excited to dive deeply into upgrading my programming, visualisation, and analytical skills. I am also looking forward to networking with my highly motivated classmates, mentors, and instructors.
 
 **Why did I enroll in Udacity's DAND?**
 
