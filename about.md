@@ -9,4 +9,4 @@ I am incredibly passionate about data science, I like MOOCs, podcasts, and quant
 
 ### Contact me
 
-The best way to get in touch with me is on LinkedIn [by clicking here.](https://www.linkedin.com/in/raphaelschagerl/)
+The best way to get in touch with me is via LinkedIn [by clicking here.](https://www.linkedin.com/in/raphaelschagerl/)
