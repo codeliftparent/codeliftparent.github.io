@@ -25,3 +25,7 @@ My passion for all things data and quantitative analytics has accompanied me and
 
 At the moment, I am a manager for a big international corporation while working proactively on making my career change into data science happening. 
 The switch into data science will allow me to work and spend the biggest part of my day on what I love doing most. The technical skills I hone in the Data Analyst Nanodegree program, my excellent communication style and business acumen make me a great asset for any data science team. So, the "why" of going through the DAND is really a no-brainer.
+
+**So, what's the plan?**
+
+My plan is to build up my data science portfolio with projects from the DAND program (deadline 3 months), apply for data analyst/data science jobs (deadline 5 months), and continue on improving my skills with Udacity's Data Science Nanodegree Program (deadline 1 year). I'm also seriously contemplating a very good distance learning master in computer science focusing on machine learning and artificial intelligence (deadline 3 years).
