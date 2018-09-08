@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am incredibly passionate about data science, I like MOOCs, podcasts, and quant investing. Tech loves me and I love it right back.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+The best way to get in touch with me is on LinkedIn [by clicking here.](https://www.linkedin.com/in/raphaelschagerl/)
