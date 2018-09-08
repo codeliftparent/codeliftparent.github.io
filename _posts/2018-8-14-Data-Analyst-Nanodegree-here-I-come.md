@@ -17,8 +17,9 @@ There are numerous reputable providers of data analysis and data science instruc
 * The projects you submit during the nanodegree are reviewed by experts who give you concise feedback and guide you through the process of improving your work until it's production level quality.
 * The Udacity nanodegree is a great experience. Onboarding, instruction, projects, mentoring, career portal, etc... everything fits perfectly together and you feel supported at all times.
 
-**Why I want to pursue data science**
+**Why do I want to pursue a career in data science?**
 
 I sincerely believe that I was born to help businesses and individuals unlock the value of their data, draw correct inference from available evidence and make decisions that are empirically sound and realise their goals.
 My passion for all things data and quantitative analytics has accompanied me and brought joy to me almost all my life. The grammar school I went to focused on STEM subjects, I graduated from university with a degree in economics specialising in quantitative methods and statistical programming and was fortunate to get several work placements with renowned asset management firms and stock exchanges contributing value by developing software tools to support futures trading and analysis.
 At the moment, I am a manager for a big international corporation while working proactively on making my career change into data science happening. 
+The switch into data science will allow me to work and spend the biggest part of my day on what I love doing most. The technical skills I hone in the Data Analyst Nanodegree program, my strong communication skills and business acumen make me a great asset for any data science team. So, the "why" of going through the DAND is really a no-brainer.
